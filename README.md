@@ -1,2 +1,3 @@
 This repository is about large scale machine learning.
 
+Participated in in-depth studies and practical applications of scalable machine learning algorithms, focusing on performance enhancements and computational efficiency. Projects included creating basic versions of machine learning components and optimizing them for speed and resource management. Gained expertise in building and fine-tuning neural networks for the MNIST dataset, and applied Bayesian Optimization for model selection. Enhanced skills in Python and PyTorch, with a focus on utilizing hardware capabilities through numpy implicit threading, effective memory management, and advanced multithreading techniques.
